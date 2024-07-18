@@ -58,7 +58,7 @@ override fun onActivityResult(requestCode: Int, resultCode: Int, intent: Intent?
 ---------|-----|----------
 action | String | Метод
 error | String | Тип ошибки (если была ошибка)
-message | String | Тест ошибки (если была ошибка)
+message | String | Текст ошибки (если была ошибка)
 
 ```Intent.data``` содержит ```uri``` файла отчета ([пример отчета](method_result.json)) для методов ```visit, report, summaryReport```.
 
