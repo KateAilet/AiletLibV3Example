@@ -267,7 +267,7 @@ launchConfig | LaunchConfig | Конфигурация запуска | | AiletM
 
 **Ошибки**
 Ошибка  | Текст ошибки | Описание
----------|----------
+---------|----------|--------
 Throwable | Uneditable(historical) visit | Завершенный визит (не редактируемый)
 IllegalStateException | Inconsistent AiletClient state: (Unknown, Warning, Error) | Ошибка несогласования (с кодом)
 Throwable | Unauthorized | Не авторизован
